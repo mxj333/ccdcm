@@ -1,0 +1,45 @@
+Action
+Alert
+API info
+Application
+Configuration
+Correlation
+Discovered host
+Discovered service
+Discovery check
+Discovery rule
+Event
+Graph
+Graph item
+Graph prototype
+History
+Host
+Host group
+Host interface
+Host prototype
+Icon map
+Image
+Item
+Item prototype
+IT service
+LLD rule
+Maintenance
+Map
+Media
+Media type
+Problem
+Proxy
+Screen
+Screen item
+Script
+Template
+Template screen
+Template screen item
+Trend
+Trigger
+Trigger prototype
+User
+User group
+User macro
+Value map
+Web scenario

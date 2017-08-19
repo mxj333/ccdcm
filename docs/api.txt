@@ -1,0 +1,315 @@
+Action
+	> Action object
+	action.create
+	action.delete
+	action.get
+	action.update
+
+Alert
+	> Alert object
+	alert.get
+	API info
+	apiinfo.version
+
+Application
+	> Application object
+	application.create
+	application.delete
+	application.get
+	application.massadd
+	application.update
+
+Configuration
+	configuration.export
+	configuration.import
+
+Correlation
+	> Correlation object
+	correlation.create
+	correlation.delete
+	correlation.get
+	correlation.update
+
+Discovered host
+	> Discovered host object
+	dhost.get
+
+Discovered service
+	> Discovered service object
+	dservice.get
+	
+Discovery check
+> Discovery check object
+dcheck.get
+Discovery rule
+> Discovery rule object
+drule.create
+drule.delete
+drule.get
+drule.isreadable
+drule.iswritable
+drule.update
+Event
+> Event object
+event.acknowledge
+event.get
+Graph
+> Graph object
+graph.create
+graph.delete
+graph.get
+graph.update
+Graph item
+> Graph item object
+graphitem.get
+Graph prototype
+> Graph prototype object
+graphprototype.create
+graphprototype.delete
+graphprototype.get
+graphprototype.update
+History
+> History object
+history.get
+Host
+> Host object
+host.create
+host.delete
+host.get
+host.isreadable
+host.iswritable
+host.massadd
+host.massremove
+host.massupdate
+host.update
+Host group
+> Host group object
+hostgroup.create
+hostgroup.delete
+hostgroup.get
+hostgroup.isreadable
+hostgroup.iswritable
+hostgroup.massadd
+hostgroup.massremove
+hostgroup.massupdate
+hostgroup.update
+Host interface
+> Host interface object
+hostinterface.create
+hostinterface.delete
+hostinterface.get
+hostinterface.massadd
+hostinterface.massremove
+hostinterface.replacehostinterfaces
+hostinterface.update
+Host prototype
+> Host prototype object
+hostprototype.create
+hostprototype.delete
+hostprototype.get
+hostprototype.isreadable
+hostprototype.iswritable
+hostprototype.update
+Icon map
+> Icon map object
+iconmap.create
+iconmap.delete
+iconmap.get
+iconmap.isreadable
+iconmap.iswritable
+iconmap.update
+Image
+> Image object
+image.create
+image.delete
+image.get
+image.update
+Item
+> Item object
+item.create
+item.delete
+item.get
+item.isreadable
+item.iswritable
+item.update
+Item prototype
+> Item prototype object
+itemprototype.create
+itemprototype.delete
+itemprototype.get
+itemprototype.isreadable
+itemprototype.iswritable
+itemprototype.update
+IT service
+> IT Service object
+service.adddependencies
+service.addtimes
+service.create
+service.delete
+service.deletedependencies
+service.deletetimes
+service.get
+service.getsla
+service.isreadable
+service.iswritable
+service.update
+LLD rule
+> LLD rule object
+discoveryrule.copy
+discoveryrule.create
+discoveryrule.delete
+discoveryrule.get
+discoveryrule.isreadable
+discoveryrule.iswritable
+discoveryrule.update
+Maintenance
+> Maintenance object
+maintenance.create
+maintenance.delete
+maintenance.get
+maintenance.update
+Map
+> Map object
+map.create
+map.delete
+map.get
+map.isreadable
+map.iswritable
+map.update
+Media
+> Media object
+usermedia.get
+Media type
+> Media type object
+mediatype.create
+mediatype.delete
+mediatype.get
+mediatype.update
+Problem
+> Problem object
+problem.get
+Proxy
+> Proxy object
+proxy.create
+proxy.delete
+proxy.get
+proxy.isreadable
+proxy.iswritable
+proxy.update
+Screen
+> Screen object
+screen.create
+screen.delete
+screen.get
+screen.update
+Screen item
+> Screen item object
+screenitem.create
+screenitem.delete
+screenitem.get
+screenitem.isreadable
+screenitem.iswritable
+screenitem.update
+screenitem.updatebyposition
+Script
+> Script object
+script.create
+script.delete
+script.execute
+script.get
+script.getscriptsbyhosts
+script.update
+Template
+> Template object
+template.create
+template.delete
+template.get
+template.isreadable
+template.iswritable
+template.massadd
+template.massremove
+template.massupdate
+template.update
+Template screen
+> Template screen object
+templatescreen.copy
+templatescreen.create
+templatescreen.delete
+templatescreen.get
+templatescreen.isreadable
+templatescreen.iswritable
+templatescreen.update
+Template screen item
+> Template screen item object
+templatescreenitem.get
+Trend
+> Trend object
+trend.get
+Trigger
+> Trigger object
+trigger.adddependencies
+trigger.create
+trigger.delete
+trigger.deletedependencies
+trigger.get
+trigger.isreadable
+trigger.iswritable
+trigger.update
+Trigger prototype
+> Trigger prototype object
+triggerprototype.create
+triggerprototype.delete
+triggerprototype.get
+triggerprototype.update
+
+User
+	> User object
+	user.addmedia
+	user.create
+	user.delete
+	user.deletemedia
+	user.get
+	user.isreadable
+	user.iswritable
+	user.login
+	user.logout
+	user.update
+	user.updatemedia
+	user.updateprofile
+
+User group
+	> User group object
+	usergroup.create
+	usergroup.delete
+	usergroup.get
+	usergroup.isreadable
+	usergroup.iswritable
+	usergroup.massadd
+	usergroup.massupdate
+	usergroup.update
+
+User macro
+	> User macro object
+	usermacro.create
+	usermacro.createglobal
+	usermacro.delete
+	usermacro.deleteglobal
+	usermacro.get
+	usermacro.update
+	usermacro.updateglobal
+
+Value map
+	> Value map object
+	valuemap.create
+	valuemap.delete
+	valuemap.get
+	valuemap.update
+
+Web scenario
+	> Web scenario object
+	httptest.create
+	httptest.delete
+	httptest.get
+	httptest.isreadable
+	httptest.iswritable
+	httptest.update
